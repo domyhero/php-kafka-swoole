@@ -3,7 +3,7 @@
  * Kafka高级别消费者(多线程版)
  *
  * @author CHAIYUE
- * @version 2016-06-14
+ * @version 2016-06-15
  */
 include 'kafkaConfig.php';
 class taskKafkaConsumer
