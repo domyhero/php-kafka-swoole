@@ -3,7 +3,7 @@
  * Kafka高级别消费者
  *
  * @author CHAIYUE
- * @version 2016-06-14
+ * @version 2016-08-23
  */
 include 'kafkaConfig.php';
 class kafkaHighConsumer
